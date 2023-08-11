@@ -17,103 +17,98 @@ I am an undergraduate student at the University of California, Berkeley, double 
 I interned at NewsBreak, a company that focuses on providing news tailored to a user’s 
 location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.
 
+### UCSD Nanomaterials and Nanomedicine Laboratory
 
-## Setup Guide
+I interned at UCSD as a Research Analyst Intern. I implemented modern cell membrane coating technology, including cell counting, pating, culturing, and membrane derivation procedures. I made use of lab equipment such as autoclaves and pipettes. Our results were published in an academic journal: "<a href="https://doi.org/10.1002/btm2.10187">Cartilage-targeting ultrasmall lipid-polymer hybrid nanoparticles for the prevention of cartilage degradation</a>," <i>Bioengineering & Translational Medicine, 2021; 6; e10187.</i>
 
-### Create a repository from this template
+## My Education
 
-* [Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages).
-* Click the `Star` button on the top right. (OK, this step is facultative, but that would make you a nice person)
-* Click the `Use this template` button on the top right of the page.
+### University of California, Berkeley (2020-2024)
 
-### Choose a name for your repository
+I am an undergraduate at the University of California, Berkeley. I am majoring in Computer Science and Applied Math.
 
-Here we have two possibilities:
+### Westview High School
 
-* **You want a user or organization website**
+I attended Westview High School, where I graduated with a GPA of 3.9 out of 4.0.
 
-  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
+## Skills
 
-  Choose the repository name `<your username>.github.io`.
+<ul class=skilllist>
+      <li>C</li>
+      <li>C++</li>
+      <li>Java</li>
+      <li>CSS</li>
+      <li>HTML5</li>
+      <li>Javascript</li>
+      <li>Python</li>
+      <li>RISC-V</li>
+      <li>SQL</li>
+      <li>LaTeX</li>
+      <li>Swift</li>
+      <li>PyTorch</li>
+    </ul>
 
-* **You want a project website**
+## My Projects
 
-  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
-
-  Choose the repository name `<whatever you want>`.
-
-### Activate Github Pages on your repository
-
-Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
-
-### That's it
-
-Your Github Pages website with customizable Bootstrap 4 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
-
-## Customization Guide
-
-### Modify the configuration
-
-You should at least edit the `_config.yml` file to edit your website's metadata, like the title, description and repository URL.
-
-### Change your theme
-
-This website uses the [Minty](https://bootswatch.com/minty/) Bootstrap theme by default. And you don't want to use the same theme everyone else uses do you?
-
-You can of course modify anything in the `_includes`, `_layouts` and `_sass` folders to customize both the HTML or CSS of your website, possibly referring to the [Bootstrap documentation](https://getbootstrap.com/) or the [Jekyll documentation](https://jekyllrb.com/) when needed. This is a normal part of web development and it is outside the scope of this guide.
-
-But if you don't know where to start I can recommend you to import a theme from [Bootswatch](https://bootswatch.com/).
-
-* Go on [Bootswatch](https://bootswatch.com/) and choose a theme that you like.
-* Using the top bar, download its `_variables.scss` and `_bootswatch.scss` files.
-* Copy the content of `_variables.scss` in `_sass/_variables.scss`.
-* Copy the content of `_bootswatch.scss` in `_sass/_bootstrap_customization.scss`.
-
-That's it, you now have a totally different appearance for you website.
-
-### Modify the content
-
-You probably don't want the present guide to be the front page of your website, so you should edit the `index.md` file. You probably also want to edit or delete the `CONTRIBUTING.md`, `README.md` and `LICENSE.md` files.
-
-Aside from that you can of course create new pages and posts like with any Jekyll website by refering to the [Jekyll documentation](https://jekyllrb.com/).
-
-### Run Jekyll on your computer to speed up testing
-
-Editing your website's content or theme directly on Github is completely possible but, due to the time Github Pages takes to update your website, it will probably be much more effective to work using a local Jekyll installation.
-
-To do so:
-
-* Install the [requirements for Jekyll](https://jekyllrb.com/docs/installation/).
-* Type `bundle install` at the root of your project to install the necessary Ruby dependencies.
-* Type `bundle exec jekyll serve` to launch the test Jekyll web server that will re-compile your work if you edit it.
-* You can then open `http://localhost:4000` in your web browser to see your work-in-progress website.
-
-Please note that, to ensure maximum compatibility with Github Pages, the `Gemfile` of this project references the `github-pages` gem, not Jekyll directly. This implies some differences in behavior compared to the official documentation of Jekyll.
-
-## Known issues
-
-* Bootstrap 4 should normally be post-processed using [Autoprefixer](https://github.com/postcss/autoprefixer). Even if it is possible to use autoprefixer with Jekyll, it is not possible with a classic Github Pages installation without adding some kind of pre-processing before publication. Since this project mostly aims compatibility with Github Pages I prefer to keep it that way. The consequences of this choice is that some Bootstrap features could not work as expected on older browsers.
-
-## How to contribute
-
-Like this project ? [Consider adding a star on Github](https://github.com/nicolas-van/bootstrap-4-github-pages).
-
-[You can also see the contribution guide](https://github.com/nicolas-van/bootstrap-4-github-pages/blob/master/CONTRIBUTING.md).
-
-## Websites using Bootstrap 4 Github Pages
-
-* [My personal blog](https://nicolas-van.github.io/)
-* [the wavelet's profile](https://thewavelet.github.io/)
-* [William Moore's website](https://will2bill.com/)
-* [roseblood.github.io](https://roseleblood.github.io/)
-* [borislouis.github.io](https://borislouis.github.io/)
-* [dariusnwadike.github.io](https://dariusnwadike.github.io/)
-* [libcoap.net](https://libcoap.net/)
-
-## Other Github Pages related projects
-
-I'm a fan of Github Pages for the possibilities it offers to anyone to publish a website for free. I have multiple projects that could be of interest if that's your case too:
-
-* [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
-* [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate)
-
+<a href="https://github.com/DerrickhSun/CS162OSFilesys">
+        <h4>
+          Pintos Filesys Operating System
+        </h4>
+      </a>
+      <p>
+        I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, 
+        syscalls, and floating point operations. It also has a working filesystem, including a buffer cache, extensible files,
+        subdirectories and file locking. However, it only has basic multithreading, and is lacking many features such as 
+        an internal clock and priority lending.
+      </p>
+      <p>
+        Unfortunately, as this is a school project, I cannot make it
+        public. If you want to view it, feel free to request.
+      </p>
+      <a href="https://github.com/DerrickhSun/CS162OSMultithreading">
+        <h4>
+          Pintos Multithreaded Operating System
+        </h4>
+      </a>
+      <p>
+        I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, 
+        syscalls, and floating point operations. It is multithreaded, implementing
+        locks, thread priorities, priority lending, and an internal clock. However, it is lacking many filesystem
+        features such as subdirectories and a buffer cache.
+      </p>
+      <p>
+        Unfortunately, as this is a school project, I cannot make it
+        public. If you want to view it, feel free to request.
+      </p>
+      <a href="https://github.com/61c-student/sp21-proj4-DerrickhSun">
+        <h4>
+          Matrix Multiplication
+        </h4>
+      </a>
+      <p>
+        I implemented matrix multiplication in a mix of C and Python, then optimized it
+        with unrolling, cache blocking, parallelizing, call reducing, and other optimizations. 
+        The finished result created matrix objects from certain input and performed 
+        matrix multiplication on the matrices.
+      </p>
+      <p>
+        Unfortunately, as this is a school project, I cannot make it
+        public. If you want to view it, feel free to request.
+      </p>
+      <a href="https://github.com/DerrickhSun/ProjectArk">
+      <h4>
+        Project Ark
+      </h4>
+    </a>
+      <p>
+        A video game made using characters from the game "Arknights"
+        and gameplay inspired by "Smash Bros." I started this game as just
+        a tool to practice my Java skills.
+      </p>
+      <p>
+        The game has three characters (the fourth currently does not work)
+        and is best played with two players. It is admittedly not 
+        user-friendly, as it was only intended as a for-fun project and 
+        I frequently have to stop part way through updates due to 
+        school. The game is run from the driver file in src.
+      </p>

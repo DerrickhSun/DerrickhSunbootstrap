@@ -50,65 +50,20 @@ I attended Westview High School, where I graduated with a GPA of 3.9 out of 4.0.
 
 ## My Projects
 
-<a href="https://github.com/DerrickhSun/CS162OSFilesys">
-        <h4>
-          Pintos Filesys Operating System
-        </h4>
-      </a>
-      <p>
-        I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, 
-        syscalls, and floating point operations. It also has a working filesystem, including a buffer cache, extensible files,
-        subdirectories and file locking. However, it only has basic multithreading, and is lacking many features such as 
-        an internal clock and priority lending.
-      </p>
-      <p>
-        Unfortunately, as this is a school project, I cannot make it
-        public. If you want to view it, feel free to request.
-      </p>
-      <a href="https://github.com/DerrickhSun/CS162OSMultithreading">
-        <h4>
-          Pintos Multithreaded Operating System
-        </h4>
-      </a>
-      <p>
-        I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, 
-        syscalls, and floating point operations. It is multithreaded, implementing
-        locks, thread priorities, priority lending, and an internal clock. However, it is lacking many filesystem
-        features such as subdirectories and a buffer cache.
-      </p>
-      <p>
-        Unfortunately, as this is a school project, I cannot make it
-        public. If you want to view it, feel free to request.
-      </p>
-      <a href="https://github.com/61c-student/sp21-proj4-DerrickhSun">
-        <h4>
-          Matrix Multiplication
-        </h4>
-      </a>
-      <p>
-        I implemented matrix multiplication in a mix of C and Python, then optimized it
-        with unrolling, cache blocking, parallelizing, call reducing, and other optimizations. 
-        The finished result created matrix objects from certain input and performed 
-        matrix multiplication on the matrices.
-      </p>
-      <p>
-        Unfortunately, as this is a school project, I cannot make it
-        public. If you want to view it, feel free to request.
-      </p>
-      <a href="https://github.com/DerrickhSun/ProjectArk">
-      <h4>
-        Project Ark
-      </h4>
-    </a>
-      <p>
-        A video game made using characters from the game "Arknights"
-        and gameplay inspired by "Smash Bros." I started this game as just
-        a tool to practice my Java skills.
-      </p>
-      <p>
-        The game has three characters (the fourth currently does not work)
-        and is best played with two players. It is admittedly not 
-        user-friendly, as it was only intended as a for-fun project and 
-        I frequently have to stop part way through updates due to 
-        school. The game is run from the driver file in src.
-      </p>
+### [Pintos Filesys Operating System](https://github.com/DerrickhSun/CS162OSFilesys)
+      
+I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, syscalls, and floating point operations. It also has a working filesystem, including a buffer cache, extensible files, subdirectories and file locking. However, it only has basic multithreading, and is lacking many features such as an internal clock and priority lending.
+
+### [Pintos Multithreaded Operating System](https://github.com/DerrickhSun/CS162OSMultithreading)
+
+I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, syscalls, and floating point operations. It is multithreaded, implementing locks, thread priorities, priority lending, and an internal clock. However, it is lacking many filesystem features such as subdirectories and a buffer cache.
+
+### [Matrix Multiplication](https://github.com/61c-student/sp21-proj4-DerrickhSun)
+
+I implemented matrix multiplication in a mix of C and Python, then optimized it with unrolling, cache blocking, parallelizing, call reducing, and other optimizations. The finished result created matrix objects from certain input and performed matrix multiplication on the matrices.
+
+### [Project Ark](https://github.com/DerrickhSun/ProjectArk)
+
+A video game made using characters from the game "Arknights" and gameplay inspired by "Smash Bros." I started this game as a tool to practice my Java skills.
+
+The game has three useable characters and is best played with two players. It is admittedly not user-friendly, as it was only intended as a for-fun project and I frequently have to stop part way through updates due to school. The game is run from the driver file in src.

@@ -1,21 +1,22 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Derrick Sun
 ---
 
-A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+![image of me](./images/selfInSuit.jpg "image of me")
 
 ## About Me
 
-I am an undergraduate student at the University of California, 
-Berkeley, double majoring in Applied Math and Computer Science. I am
-especially interested in machine learning and artificial intelligence.
-I will be graduating from UC Berkeley in 2024.
+I am an undergraduate student at the University of California, Berkeley, double majoring in Applied Math and Computer Science. I am especially interested in machine learning and artificial intelligence. I will be graduating from UC Berkeley in 2024.
+
+## My Experience
+
+### NewsBreak
+
+I interned at NewsBreak, a company that focuses on providing news tailored to a user’s 
+location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.
+
 
 ## Setup Guide
 

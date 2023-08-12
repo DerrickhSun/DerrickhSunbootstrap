@@ -11,7 +11,8 @@ title: Derrick Sun
 I am an undergraduate student at the University of California, Berkeley, double majoring in Applied Math and Computer Science. I am especially interested in machine learning and artificial intelligence. I will be graduating from UC Berkeley in 2024.
 
 <section class="experience">
-## My Experience
+<h2> My Experience </h2>
+</section>
 
 #### NewsBreak
 

@@ -10,14 +10,14 @@ title: Derrick Sun
 
 I am an undergraduate student at the University of California, Berkeley, double majoring in Applied Math and Computer Science. I am especially interested in machine learning and artificial intelligence. I will be graduating from UC Berkeley in 2024.
 
+<section class="experience">
 ## My Experience
 
 #### NewsBreak
 
-<p id="experience">
 I interned at NewsBreak, a company that focuses on providing news tailored to a user’s 
 location and interests through their mobile app, NewsBreak, under my mentor, Zhengwen Wang. I worked as a front-end programmer for the NewsBreak iOS app, where I used XCode to design a part of the app and became proficient in Swift, data fetching, and programmatic coding in UIKit. The part I designed will be released as the discover-search page of the app.
-</p>
+
 
 #### UCSD Nanomaterials and Nanomedicine Laboratory
 

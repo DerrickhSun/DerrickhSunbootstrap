@@ -4,7 +4,9 @@ title: Derrick Sun
 ---
 
 
-![image of me](./images/selfInSuit.jpg "image of me")
+<p align="center">
+<img src="./images/selfInSuit.jpg" alt="image of me" style="width:300px;"/>
+</p>
 
 ## About Me
 

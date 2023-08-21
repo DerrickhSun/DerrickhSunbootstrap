@@ -51,17 +51,26 @@ I attended Westview High School, where I graduated with a GPA of 3.9 out of 4.0.
       <li>LaTeX</li>
       <li>Swift</li>
       <li>PyTorch</li>
+      <li>Ruby</li>
     </ul>
 
 ## My Projects
 
+#### [County Representatives Website](https://su23-11-57a34b75dce1.herokuapp.com/)
+
+I wrote the code for an app that allows for the viewing of representatives of counties in the United States. Counties can be looked up by either name or by clicking on a map of the United States. News articles relevant to certain representatives can also be added. The code is written in a mix of Ruby, JavaScript, HTML, and CSS. Testing was done with Cucumber and Rubocop. I had two collaborators when writing this code.
+
+#### [ARIES Recovery System](https://github.com/cs186-student/sp23-proj5-leslie33kim/commits/main)
+
+I implemented a recovery system, including savepoints, rollbacks, and ACID compliant restart recovery. The system makes use of a dirty page dable and transaction table to track database accesses and recovery in the event of failure. I worked with another person when working on this project.
+
 #### [Pintos Filesys Operating System](https://github.com/DerrickhSun/CS162OSFilesys)
       
-I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, syscalls, and floating point operations. It also has a working filesystem, including a buffer cache, extensible files, subdirectories and file locking. However, it only has basic multithreading, and is lacking many features such as an internal clock and priority lending.
+I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, syscalls, and floating point operations. It also has a working filesystem, including a buffer cache, extensible files, subdirectories and file locking. However, it only has basic multithreading, and is lacking many features such as an internal clock and priority lending. I had three collaborators when working on this project.
 
 #### [Pintos Multithreaded Operating System](https://github.com/DerrickhSun/CS162OSMultithreading)
 
-I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, syscalls, and floating point operations. It is multithreaded, implementing locks, thread priorities, priority lending, and an internal clock. However, it is lacking many filesystem features such as subdirectories and a buffer cache.
+I wrote an operating system in Pintos using C. The system has the basics, such as process execuation, syscalls, and floating point operations. It is multithreaded, implementing locks, thread priorities, priority lending, and an internal clock. However, it is lacking many filesystem features such as subdirectories and a buffer cache. I had three collaborators when working on this project.
 
 #### [Matrix Multiplication](https://github.com/61c-student/sp21-proj4-DerrickhSun)
 
